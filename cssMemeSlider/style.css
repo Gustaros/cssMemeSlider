@@ -104,7 +104,7 @@ body {
     margin: 0 10px 0 10px;
 }
 
-.slider__navlink:hover {
+.slider-link:hover {
     display: inline-block;
     height: 15px;
     width: 15px;
